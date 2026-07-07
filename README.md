@@ -101,7 +101,7 @@ We may update this policy periodically. We will notify users of significant chan
 
 For questions about this privacy policy or to exercise your data rights please contact:
 
-**Email:** [YOUR EMAIL ADDRESS]
+**Email:** ja.strong@icloud.com
 
 ---
 
