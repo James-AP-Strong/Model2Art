@@ -16,6 +16,8 @@
           "price": "£4.55",
           "salePrice": "£3.64",
           "isOnSale": true,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4b8fcFV"
         },
         {
@@ -23,6 +25,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_NULN_OIL"
         },
         {
@@ -30,6 +34,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_NULN_OIL"
         }
       ]
@@ -50,6 +56,8 @@
           "price": "£4.55",
           "salePrice": "£3.64",
           "isOnSale": true,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4fvvVVV"
         },
         {
@@ -57,6 +65,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_AGRAX"
         },
         {
@@ -64,6 +74,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_AGRAX"
         }
       ]
@@ -84,6 +96,8 @@
           "price": "£4.55",
           "salePrice": "£4.55",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4vYtnFN"
         },
         {
@@ -91,6 +105,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_AVERLAND"
         },
         {
@@ -98,6 +114,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_AVERLAND"
         }
       ]
@@ -118,6 +136,8 @@
           "price": "£4.55",
           "salePrice": "£4.55",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/3TewA5s"
         },
         {
@@ -125,6 +145,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_MACRAGGE"
         },
         {
@@ -132,6 +154,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_MACRAGGE"
         }
       ]
@@ -152,6 +176,8 @@
           "price": "£4.55",
           "salePrice": "£4.55",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4eVLshE"
         },
         {
@@ -159,6 +185,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_MEPHISTON"
         },
         {
@@ -166,6 +194,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_MEPHISTON"
         }
       ]
@@ -186,6 +216,8 @@
           "price": "£4.55",
           "salePrice": "£4.55",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4wGQBAj"
         },
         {
@@ -193,6 +225,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_ABADDON"
         },
         {
@@ -200,6 +234,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_ABADDON"
         }
       ]
@@ -220,6 +256,8 @@
           "price": "£4.55",
           "salePrice": "£3.64",
           "isOnSale": true,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4aMXLKP"
         },
         {
@@ -227,6 +265,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_RETRIBUTOR"
         },
         {
@@ -234,6 +274,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_RETRIBUTOR"
         }
       ]
@@ -254,6 +296,8 @@
           "price": "£4.55",
           "salePrice": "£3.64",
           "isOnSale": true,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4f9YFSG"
         },
         {
@@ -261,6 +305,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_LEADBELCHER"
         },
         {
@@ -268,6 +314,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_LEADBELCHER"
         }
       ]
@@ -288,6 +336,8 @@
           "price": "£4.55",
           "salePrice": "£3.64",
           "isOnSale": true,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4aPxPhA"
         },
         {
@@ -295,6 +345,8 @@
           "price": "£3.60",
           "salePrice": "£3.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_REIKLAND"
         },
         {
@@ -302,6 +354,8 @@
           "price": "£3.74",
           "salePrice": "£3.74",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_REIKLAND"
         }
       ]
@@ -324,6 +378,8 @@
           "price": "£12.00",
           "salePrice": "£9.60",
           "isOnSale": true,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/4gz1DCQ"
         },
         {
@@ -331,6 +387,8 @@
           "price": "£10.80",
           "salePrice": "£10.80",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_WRAITHBONE_SPRAY"
         },
         {
@@ -338,6 +396,8 @@
           "price": "£11.20",
           "salePrice": "£11.20",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_WRAITHBONE_SPRAY"
         }
       ]
@@ -358,6 +418,8 @@
           "price": "£12.00",
           "salePrice": "£12.00",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_AMAZON_CHAOS_BLACK"
         },
         {
@@ -365,6 +427,8 @@
           "price": "£10.80",
           "salePrice": "£10.80",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_CHAOS_BLACK"
         },
         {
@@ -372,6 +436,8 @@
           "price": "£11.20",
           "salePrice": "£11.20",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_CHAOS_BLACK"
         }
       ]
@@ -394,6 +460,8 @@
           "price": "£6.00",
           "salePrice": "£6.00",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_AMAZON_BASE_BRUSH"
         },
         {
@@ -401,6 +469,8 @@
           "price": "£5.40",
           "salePrice": "£5.40",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_BASE_BRUSH"
         },
         {
@@ -408,6 +478,8 @@
           "price": "£5.60",
           "salePrice": "£5.60",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_BASE_BRUSH"
         }
       ]
@@ -430,6 +502,8 @@
           "price": "£7.80",
           "salePrice": "£7.80",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_AMAZON_ASTROGRANITE"
         },
         {
@@ -437,6 +511,8 @@
           "price": "£6.99",
           "salePrice": "£6.99",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_ASTROGRANITE"
         },
         {
@@ -444,6 +520,8 @@
           "price": "£7.20",
           "salePrice": "£7.20",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_ASTROGRANITE"
         }
       ]
@@ -466,6 +544,8 @@
           "price": "£150.00",
           "salePrice": "£150.00",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "https://amzn.to/44rrW6F"
         },
         {
@@ -473,6 +553,8 @@
           "price": "£127.50",
           "salePrice": "£127.50",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_ELEMENT_WH40K_ARMAGEDDON"
         },
         {
@@ -480,6 +562,8 @@
           "price": "£127.50",
           "salePrice": "£127.50",
           "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_WH40K_ARMAGEDDON"
         }
       ]
