@@ -359,6 +359,428 @@
           "affiliateURL": "#AFFILIATE_WAYLAND_REIKLAND"
         }
       ]
+    },
+    {
+      "id": "calgar-blue",
+      "name": "Calgar Blue",
+      "brand": "Citadel Layer",
+      "colorR": 0.29,
+      "colorG": 0.48,
+      "colorB": 0.71,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4eXnMcL"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_CALGAR"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_CALGAR"
+        }
+      ]
+    },
+    {
+      "id": "yriel-yellow",
+      "name": "Yriel Yellow",
+      "brand": "Citadel Layer",
+      "colorR": 0.94,
+      "colorG": 0.75,
+      "colorB": 0.19,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4eWLTs5"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_YRIEL"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_YRIEL"
+        }
+      ]
+    },
+    {
+      "id": "death-guard-green",
+      "name": "Death Guard Green",
+      "brand": "Citadel Base",
+      "colorR": 0.35,
+      "colorG": 0.43,
+      "colorB": 0.23,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/3R3XpJ5"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_DG_GREEN"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_DG_GREEN"
+        }
+      ]
+    },
+    {
+      "id": "nurgling-green",
+      "name": "Nurgling Green",
+      "brand": "Citadel Layer",
+      "colorR": 0.48,
+      "colorG": 0.60,
+      "colorB": 0.29,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4fhxyFH"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_NURGLING"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_NURGLING"
+        }
+      ]
+    },
+    {
+      "id": "carroburg-crimson",
+      "name": "Carroburg Crimson",
+      "brand": "Citadel Shade",
+      "colorR": 0.42,
+      "colorG": 0.06,
+      "colorB": 0.16,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_CARROBURG"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_CARROBURG"
+        }
+      ]
+    },
+    {
+      "id": "runefang-steel",
+      "name": "Runefang Steel",
+      "brand": "Citadel Layer",
+      "colorR": 0.75,
+      "colorG": 0.75,
+      "colorB": 0.78,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4eYCfVW"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_RUNEFANG"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_RUNEFANG"
+        }
+      ]
+    },
+    {
+      "id": "contrast-medium",
+      "name": "Contrast Medium",
+      "brand": "Citadel Contrast",
+      "colorR": 0.91,
+      "colorG": 0.88,
+      "colorB": 0.82,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_CONTRAST_MEDIUM"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_CONTRAST_MEDIUM"
+        }
+      ]
+    },
+    {
+      "id": "lahmian-medium",
+      "name": "Lahmian Medium",
+      "brand": "Citadel Technical",
+      "colorR": 0.91,
+      "colorG": 0.88,
+      "colorB": 0.82,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4vwRKcB"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_LAHMIAN"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_LAHMIAN"
+        }
+      ]
+    },
+    {
+      "id": "wraithbone-paint",
+      "name": "Wraithbone",
+      "brand": "Citadel Base",
+      "colorR": 0.91,
+      "colorG": 0.87,
+      "colorB": 0.75,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4ycKJ37"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_WRAITHBONE_PAINT"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_WRAITHBONE_PAINT"
+        }
+      ]
+    },
+    {
+      "id": "corax-white",
+      "name": "Corax White",
+      "brand": "Citadel Base",
+      "colorR": 0.95,
+      "colorG": 0.95,
+      "colorB": 0.95,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4ymW7cY"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_CORAX"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_CORAX"
+        }
+      ]
+    },
+    {
+      "id": "celestra-grey",
+      "name": "Celestra Grey",
+      "brand": "Citadel Base",
+      "colorR": 0.60,
+      "colorG": 0.65,
+      "colorB": 0.65,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£4.55",
+          "salePrice": "£4.55",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4f9hu8K"
+        },
+        {
+          "name": "Element Games",
+          "price": "£3.60",
+          "salePrice": "£3.60",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_CELESTRA"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£3.74",
+          "salePrice": "£3.74",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_CELESTRA"
+        }
+      ]
     }
   ],
   "sprays": [
@@ -380,7 +802,7 @@
           "isOnSale": true,
           "stocked": true,
           "inStock": true,
-          "affiliateURL": "https://amzn.to/4gz1DCQ"
+          "affiliateURL": "https://amzn.to/4aMMjyJ"
         },
         {
           "name": "Element Games",
@@ -420,7 +842,7 @@
           "isOnSale": false,
           "stocked": true,
           "inStock": true,
-          "affiliateURL": "#AFFILIATE_AMAZON_CHAOS_BLACK"
+          "affiliateURL": "https://amzn.to/4w1PKKx"
         },
         {
           "name": "Element Games",
@@ -441,6 +863,126 @@
           "affiliateURL": "#AFFILIATE_WAYLAND_CHAOS_BLACK"
         }
       ]
+    },
+    {
+      "id": "grey-seer-spray",
+      "name": "Grey Seer Spray",
+      "brand": "Citadel Spray",
+      "colorR": 0.75,
+      "colorG": 0.75,
+      "colorB": 0.75,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£12.00",
+          "salePrice": "£12.00",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4faAG5R"
+        },
+        {
+          "name": "Element Games",
+          "price": "£10.80",
+          "salePrice": "£10.80",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_GREY_SEER"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£11.20",
+          "salePrice": "£11.20",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_GREY_SEER"
+        }
+      ]
+    },
+    {
+      "id": "corax-white-spray",
+      "name": "Corax White Spray",
+      "brand": "Citadel Spray",
+      "colorR": 0.95,
+      "colorG": 0.95,
+      "colorB": 0.95,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£12.00",
+          "salePrice": "£12.00",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4yjzGFl"
+        },
+        {
+          "name": "Element Games",
+          "price": "£10.80",
+          "salePrice": "£10.80",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_CORAX_SPRAY"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£11.20",
+          "salePrice": "£11.20",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_CORAX_SPRAY"
+        }
+      ]
+    },
+    {
+      "id": "death-guard-green-spray",
+      "name": "Death Guard Green Spray",
+      "brand": "Citadel Spray",
+      "colorR": 0.35,
+      "colorG": 0.43,
+      "colorB": 0.23,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": "£12.00",
+          "salePrice": "£12.00",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "https://amzn.to/4vZmfc6"
+        },
+        {
+          "name": "Element Games",
+          "price": "£10.80",
+          "salePrice": "£10.80",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_DG_GREEN_SPRAY"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£11.20",
+          "salePrice": "£11.20",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_DG_GREEN_SPRAY"
+        }
+      ]
     }
   ],
   "brushes": [
@@ -455,15 +997,6 @@
       "isOnSale": false,
       "saving": "",
       "retailers": [
-        {
-          "name": "Amazon",
-          "price": "£6.00",
-          "salePrice": "£6.00",
-          "isOnSale": false,
-          "stocked": true,
-          "inStock": true,
-          "affiliateURL": "#AFFILIATE_AMAZON_BASE_BRUSH"
-        },
         {
           "name": "Element Games",
           "price": "£5.40",
@@ -498,15 +1031,6 @@
       "saving": "",
       "retailers": [
         {
-          "name": "Amazon",
-          "price": "£7.80",
-          "salePrice": "£7.80",
-          "isOnSale": false,
-          "stocked": true,
-          "inStock": true,
-          "affiliateURL": "#AFFILIATE_AMAZON_ASTROGRANITE"
-        },
-        {
           "name": "Element Games",
           "price": "£6.99",
           "salePrice": "£6.99",
@@ -523,6 +1047,37 @@
           "stocked": true,
           "inStock": true,
           "affiliateURL": "#AFFILIATE_WAYLAND_ASTROGRANITE"
+        }
+      ]
+    },
+    {
+      "id": "armageddon-dust",
+      "name": "Armageddon Dust",
+      "brand": "Citadel Texture",
+      "colorR": 0.70,
+      "colorG": 0.55,
+      "colorB": 0.30,
+      "isFeatured": false,
+      "isOnSale": false,
+      "saving": "",
+      "retailers": [
+        {
+          "name": "Element Games",
+          "price": "£6.99",
+          "salePrice": "£6.99",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_ELEMENT_ARMAGEDDON"
+        },
+        {
+          "name": "Wayland Games",
+          "price": "£7.20",
+          "salePrice": "£7.20",
+          "isOnSale": false,
+          "stocked": true,
+          "inStock": true,
+          "affiliateURL": "#AFFILIATE_WAYLAND_ARMAGEDDON"
         }
       ]
     }
