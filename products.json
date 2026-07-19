@@ -13,8 +13,8 @@
       "retailers": [
         {
           "name": "Amazon",
-          "price": "£4.55",
-          "salePrice": "£3.64",
+          "price": "£9.99",
+          "salePrice": "£5.64",
           "isOnSale": true,
           "stocked": true,
           "inStock": true,
