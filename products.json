@@ -14,7 +14,7 @@
         {
           "name": "Amazon",
           "price": "£9.99",
-          "salePrice": "£5.64",
+          "salePrice": "£9.99",
           "isOnSale": true,
           "stocked": true,
           "inStock": true,
