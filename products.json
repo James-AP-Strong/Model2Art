@@ -22,8 +22,8 @@
         },
         {
           "name": "Element Games",
-          "price": "£3.60",
-          "salePrice": "£3.60",
+          "price": "£9.99",
+          "salePrice": "£9.99",
           "isOnSale": false,
           "stocked": true,
           "inStock": true,
